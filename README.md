@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HrishikeshSarate
+- 👀 I’m interested in being a software engineer.
+- 🌱 I’m currently persuing my MCA degree.
+- 💞️ I’m looking to collaborate on developing a project based on blockchain
+- 📫 How to reach me : saratehrishikesh17@gmail.com
